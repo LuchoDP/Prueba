@@ -1,1 +1,1 @@
-Texto de master. Versión 1.6 (Cambios de prueba)
+Proyecto Versión 1.6 (test release)
