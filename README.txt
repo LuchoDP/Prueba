@@ -1,1 +1,1 @@
-Esta es la primera branch paralela a master de la primera iteración de archivos
+Esta es la primera branch.
