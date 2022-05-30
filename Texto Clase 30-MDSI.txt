@@ -1,1 +1,26 @@
-Texto: Otro ejemplo
+Modelo estructurado (distinto) Modelado Orientado a Objetos
+Caso de uso de analisis (que) / Caso de uso de diseño (como)
+
+Analizamos con el paradigma orientado a objetos sin orientarnos a un paradigma de programación.
+
+------------------------------------
+
+Clase: consta de 3 partes:
+
+*Nombre
+
+*Atributos
+
+*Operaciones
+
+------------------------------------
+
+Objeto: Consta de:
+
+*Estado (Se divide en 2 partes: Normalmente Estatica y  Normalmente Dinamica.
+Estatica:Nombre del atributo / Dinamica: El valor variable del atributo dentro del objeto)
+
+*Comportamiento (Posibles acciones del objeto)
+
+*Identidad (hace unico al objeto)
+
