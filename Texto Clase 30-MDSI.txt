@@ -1,0 +1,42 @@
+Modelo estructurado (distinto) Modelado Orientado a Objetos
+Caso de uso de analisis (que) / Caso de uso de diseño (como)
+
+Analizamos con el paradigma orientado a objetos sin orientarnos a un paradigma de programación.
+
+------------------------------------
+
+Clase: consta de 3 partes:
+
+*Nombre
+
+*Atributos
+
+*Operaciones
+
+------------------------------------
+
+Objeto: Consta de:
+
+*Estado (Se divide en 2 partes: Normalmente Estatica y  Normalmente Dinamica.
+Estatica:Nombre del atributo / Dinamica: El valor variable del atributo dentro del objeto)
+
+*Comportamiento (Posibles acciones del objeto)
+
+*Identidad (hace unico al objeto)
+
+
+Podemos "generalizar" o hacer "herencia" de clases.
+Generalizar clases sería hacer una clase "padre" que tenga menos atributos y que esté relacionada con otras varias clases "hijas".
+Herencia de clases sería hacer una clase "hija" que tenga mas atributos y esté relacionada solo con 1 "padre", la clase de la cual parto.
+
+Multiplicidad: Cantidad de objetos que es posible que una clase cree
+-Encapsulamiento: Restrinje la posibilidad de relaciones
+-Abstracción:
+-Herencia:
+-Polimorfismo:
+
+Se asocia para construir
+Se hereda para organizar
+
+-Clase de Composición
+-Clase de Agregación
