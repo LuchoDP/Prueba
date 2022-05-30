@@ -40,3 +40,20 @@ Se hereda para organizar
 
 -Clase de Composición
 -Clase de Agregación
+
+--------------------------------------------------------------------------------
+
+Ejercicio de parcial
+Caso de uso:
+Actor: -Cliente
+       -Proveedor
+
+Casos de uso de base (o Caso de Uso ANalisis. a.k.a.: C.U.AN):
+-Gestionar Cliente
+-Gestionar Mercaderia
+-Gestionar Compra
+-Gestionar Proveedor
+-Gestionar Pedido
+-Gestionar Pago
+
+A cada caso de uso de base se le pueden agregar extensiones e inclusiones 
